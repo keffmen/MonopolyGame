@@ -21,7 +21,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.Image
     - UnityEngine.UI.Text
   sceneClasses:
-    Assets/Scenes/SampleScene.unity:
+    Assets/Scenes/Meny.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -557,5 +557,5 @@ ScriptsOnlyBuild:
     className: TouchInputModule
   platform: 19
   scenePathNames:
-  - Assets/Scenes/SampleScene.unity
+  - Assets/Scenes/Meny.unity
   playerPath: "D:/disk/MonopolyGame/\u0433\u043E\u0442\u043E\u0432\u0430\u044F \u0438\u0433\u0440\u0430/MonopolyGame.exe"
